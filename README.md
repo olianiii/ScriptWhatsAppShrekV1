@@ -13,6 +13,6 @@ No WhatsApp Web, selecione a conversa ou grupo que deseja mandar as mensagens, n
 
 Pronto!
 
-Atualizado do conteudo original em: [SendScriptWhatsAppV2-Shrek-PT-BR.js](https://github.com/alestanalves/SendScriptWhatsAppV2))
+Atualizado do conteudo original em: [SendScriptWhatsAppV2-Shrek-PT-BR.js](https://github.com/alestanalves/SendScriptWhatsAppV2)
 
 Modifiquei o script acima para ser possível executá-lo nas versões mais recentes do WhatsApp Web.
